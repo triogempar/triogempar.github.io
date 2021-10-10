@@ -1,14 +1,12 @@
 <h3 align="center">Just someone who likes to learn about new things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=triogempar&label=Profile%20views&color=0e75b6&style=flat" alt="triogempar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=triogempar" alt="triogempar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/suryagiri200" target="blank"><img src="https://img.shields.io/twitter/follow/suryagiri200?logo=twitter&style=for-the-badge" alt="suryagiri200" /></a> </p>
-
 - 📫 How to reach me **me@triogempar.my.id**
 
 - ⚡ Fun fact **I can hack my own facebook account**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=triogempar&label=Profile%20views&color=0e75b6&style=flat" alt="triogempar" /> </p>
+
+<p align="left"> <a href="https://twitter.com/suryagiri200" target="blank"><img src="https://img.shields.io/twitter/follow/suryagiri200?logo=twitter&style=for-the-badge" alt="suryagiri200" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=triogempar&show_icons=true&locale=en&layout=compact" alt="triogempar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=triogempar&show_icons=true&locale=en" alt="triogempar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=triogempar&" alt="triogempar" /></p>
