@@ -5,7 +5,6 @@
 - ⚡ Fun fact **I can hack my own facebook account**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=triogempar&label=Profile%20views&color=0e75b6&style=flat" alt="triogempar" /> </p>
-
 <p align="left"> <a href="https://twitter.com/suryagiri200" target="blank"><img src="https://img.shields.io/twitter/follow/suryagiri200?logo=twitter&style=for-the-badge" alt="suryagiri200" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
